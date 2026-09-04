@@ -8,13 +8,6 @@ desktop.ini
 .idea/
 *.code-workspace
 
-# estado efemero das ferramentas de design
-# (DESIGN.md, .impeccable/design.json e .impeccable/surfaces ficam versionados de proposito)
-.impeccable/build/
-.impeccable/live/
-.impeccable/review/
-.impeccable/mocks/
-
 # se um dia entrar build ou dependencia
 node_modules/
 dist/
